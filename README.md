@@ -80,3 +80,4 @@ src/main/java/com/plusti/practicagit/
 ├── repository/                   # Interfaces Spring Data JPA
 └── service/                      # Lógica de negocio
 ```
+Practica de Git y Github
